@@ -1,4 +1,5 @@
 # C_Minus
 
-##Hello！！This is Chen's project.
-##你好！！这是Chen的玩具编译器.
+Hello！！This is Chen's project.
+
+This Project began at 2021/11/23
