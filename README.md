@@ -13,3 +13,6 @@ Finally, I finished the whole code, but it doesn't work. There is one fatal reas
 ```
 https://github.com/rswier/c4
 ```
+
+- 2021/12/5
+It turns out that my code which was wtitten weeks ago is right, but it can't work on Windows, with the reason that some formulations of command-line are unavailable, but only works on Linux. So, I'll record my process to make this code., which will be published on this link soom.
